@@ -1,6 +1,6 @@
 <?php
 /**
- * Setup autoloading yes thats true
+ * Setup autoloading yes thats true but is iyt fare
  */
 
 if (file_exists(__DIR__ . '/../vendor/autoload.php')) {
